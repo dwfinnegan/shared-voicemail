@@ -1,0 +1,12 @@
+{
+  "name": "shared-voicemail",
+  "description": "api for shared-voicemail wxcc web component",
+  "author": {
+    "name": "David Finnegan"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^12.4.0"
+  }
+}

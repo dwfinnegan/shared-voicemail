@@ -1,0 +1,11 @@
+{
+  "comp": "shared-voicemail",
+  "attributes": {
+    "darkmode": "$STORE.app.darkMode",
+    "webhookname": "",
+    "voicemaildn": "",
+    "voicemailpilot": "",
+    "entrypointid": ""
+  },
+  "script": ""
+}

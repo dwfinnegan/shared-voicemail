@@ -1,0 +1,10 @@
+# Node Modules and build files
+/node_modules
+/dist
+
+# Editor directories and files
+.vscode/*
+.idea
+
+# MacOS DS_Store
+.DS_Store
